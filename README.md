@@ -2,6 +2,7 @@
 <hr>
 
 A profile card made with HTML, CSS and JavaScript!
+Website main dev: @entxity
 
 # Twitter
 
